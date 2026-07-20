@@ -23,7 +23,7 @@ section {
 }
 .gallery img {
     width: 300px;
-    border-radius: 31px;
+    border-radius: 30px;
     border: 2px solid yellow;
     transition: 0.3s;
 }
