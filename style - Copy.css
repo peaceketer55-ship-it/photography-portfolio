@@ -61,23 +61,5 @@ footer {
     padding: 10px;
     background: black;
 }
-#about {
-    text-align: center;
-    padding: 20px;
-}
-#about img {
-    margin-top: 15px;
-    border-radius: 10px;
-} 
-#about {
-    text-align: center;
-    padding: 30px;
-    background-color: #f5f5f5;
-}
-#about p {
-    font-size: 15px;
-    margin-bottom: 10px;
-
-}
 
 

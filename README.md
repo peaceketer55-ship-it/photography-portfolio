@@ -14,12 +14,12 @@ The website contains:
 * My Interests section
 * My Favorite Photos gallery
 * Contact Me section
-
+* Responsive and attractive design using CSS
 
 ## Technologies Used
 
-* HTML
-* CSS
+* HTML5
+* CSS3
 * Git
 * GitHub
 * GitHub Pages
@@ -37,7 +37,9 @@ git clone https://github.com/peaceketer55-ship-it/football-photography.git
 3. Open `index.html` in your preferred web browser.
 
 ##  Website
-git@github.com:peaceketer55-ship-it/photography-portfolio.git
+
+
+
 ## Project Structure
 
 ```text
@@ -46,7 +48,9 @@ football-photography/
 │── style.css
 │── README.md
 │── images/
+
 ```
 
 
-Copyright @ 2026 Peace Keter
+
+Copyright (c) 2026 Peace Keter
