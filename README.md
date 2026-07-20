@@ -37,7 +37,7 @@ git clone https://github.com/peaceketer55-ship-it/football-photography.git
 3. Open `index.html` in your preferred web browser.
 
 ## Live Website
-
+git@github.com:peaceketer55-ship-it/photography-portfolio.git
 ## Project Structure
 
 ```text
