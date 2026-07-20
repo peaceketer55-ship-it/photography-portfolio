@@ -22,20 +22,20 @@ section {
     gap: 50px;
 }
 .gallery img {
-    width: 300px;
-    border-radius: 30px;
+    width: 301px;
+    border-radius: 31px;
     border: 2px solid yellow;
-    transition: 0.3s;
+    transition: 0.4s;
 }
 
 .gallery img:hover {
-    transform: scale(1.1);
+    transform: scale(1.2);
 }
 /* form */
 form {
     display: flex;
     flex-direction: column;
-    width: 300px;
+    width: 301px;
 }
 
 input, textarea {
