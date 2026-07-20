@@ -49,8 +49,5 @@ football-photography/
 └── design/
 ```
 
-## License
-
-MIT License
 
 Copyright @ 2026 Peace Keter
