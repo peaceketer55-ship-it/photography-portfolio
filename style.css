@@ -25,7 +25,7 @@ section {
     width: 301px;
     border-radius: 31px;
     border: 2px solid yellow;
-    transition: 0.4s;
+    transition: 0.3s;
 }
 
 .gallery img:hover {
