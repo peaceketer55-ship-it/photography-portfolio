@@ -53,4 +53,4 @@ football-photography/
 
 MIT License
 
-Copyright (c) 2026 Peace Keter
+Copyright @ 2026 Peace Keter
