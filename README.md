@@ -46,7 +46,6 @@ football-photography/
 │── style.css
 │── README.md
 │── images/
-└── design/
 ```
 
 
