@@ -29,7 +29,7 @@ The website contains:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/football-photography.git
+git clone https://github.com/peaceketer55-ship-it/football-photography.git
 ```
 
 2. Open the project folder.
@@ -37,12 +37,6 @@ git clone https://github.com/YOUR-USERNAME/football-photography.git
 3. Open `index.html` in your preferred web browser.
 
 ## Live Website
-
-Add your GitHub Pages link here after deployment.
-
-Example:
-
-https://peaceketer.github.io/football-photography/
 
 ## Project Structure
 
