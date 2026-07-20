@@ -24,7 +24,7 @@ The website contains:
 * GitHub
 * GitHub Pages
 
-## Setup Instructions
+##  Instructions
 
 1. Clone the repository:
 
@@ -36,7 +36,7 @@ git clone https://github.com/peaceketer55-ship-it/football-photography.git
 
 3. Open `index.html` in your preferred web browser.
 
-## Live Website
+##  Website
 git@github.com:peaceketer55-ship-it/photography-portfolio.git
 ## Project Structure
 
