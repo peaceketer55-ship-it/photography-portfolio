@@ -14,7 +14,7 @@ The website contains:
 * My Interests section
 * My Favorite Photos gallery
 * Contact Me section
-* Responsive and attractive design using CSS
+
 
 ## Technologies Used
 
